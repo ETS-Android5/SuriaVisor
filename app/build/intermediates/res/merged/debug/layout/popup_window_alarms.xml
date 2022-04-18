@@ -1,0 +1,71 @@
+<android.support.design.widget.CoordinatorLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="0dp"
+    android:background="@color/cardview_dark_background">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/cardview_dark_background"
+        >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/cardview_dark_background"
+        android:id="@+id/RelativeLayout"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/TextView_nameAlarm"
+            android:layout_alignParentTop="true"
+            android:textSize="15sp"
+            android:text="ALARMAS"
+            android:textColor="@color/icons"
+            android:padding="5dp"
+            />
+        <Button
+            android:layout_width="30dip"
+            android:layout_height="28dip"
+            android:id="@+id/button_MuteAlarm"
+            android:background="@drawable/ic_action_volume_up"
+            android:layout_toLeftOf="@+id/button_deleteAllAlarm"
+            android:padding="10dp"
+            />
+        <Button
+            android:layout_width="30dip"
+            android:layout_height="28dip"
+            android:id="@+id/button_deleteAllAlarm"
+            android:background="@drawable/ic_clear_all_white_36dp"
+            android:layout_alignParentRight="true"
+            android:padding="10dp"
+            />
+
+        <!--<Button-->
+            <!--android:layout_width="30dip"-->
+            <!--android:layout_height="28dip"-->
+            <!--android:id="@+id/button_MiniAlarm"-->
+            <!--android:background="@drawable/minimizar_white"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:padding="10dp"-->
+            <!--/>-->
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/popup_windows_alarms"
+        android:background="@color/cardview_dark_background"
+        >
+    </android.support.v7.widget.RecyclerView>
+
+    </LinearLayout>
+
+
+
+</android.support.design.widget.CoordinatorLayout>

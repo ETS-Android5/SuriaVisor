@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_icon_node.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\layout_icon_node.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_profile_node.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\layout_profile_node.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_header_node.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\layout_header_node.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_dialog_list.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_dialog_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_listitem.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_default.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\fragment_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_selectable_item.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\layout_selectable_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_selectable_header.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\layout_selectable_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_stub_actionbuttons.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_stub_actionbuttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_stub_titleframe.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_stub_titleframe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\fragment_selectable_nodes.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\fragment_selectable_nodes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_dialog_custom.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_dialog_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_dialog_input.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_dialog_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_dialog_progress_indeterminate.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_dialog_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_single_fragment.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\activity_single_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_listitem_singlechoice.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_place_node.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\layout_place_node.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_dialog_basic.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_dialog_basic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_stub_titleframe_lesspadding.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_stub_titleframe_lesspadding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_dialog_progress.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\layout_social_node.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\layout_social_node.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_stub_progress.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_stub_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_dialog_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\md_listitem_multichoice.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\layout-land\\md_listitem_multichoice.xml"
+    }
+]

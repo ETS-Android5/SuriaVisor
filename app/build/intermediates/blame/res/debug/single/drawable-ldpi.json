@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_previous_pressed.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_previous_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_pause_pressed.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_pause_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_previous_normal_w.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_previous_normal_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_next_normal_w.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_next_normal_w.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_next_pressed.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_next_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_volume_up.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_action_volume_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_picture.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_play_pressed.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_play_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_action_volume_mute.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-ldpi\\ic_action_volume_mute.png"
+    }
+]

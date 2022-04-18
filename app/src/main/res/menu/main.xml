@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sgoliver="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/item_listar_cam"
+        android:icon="@drawable/ic_listar_camara"
+        android:title="@string/List_Cam"/>
+    <item
+        android:id="@+id/item_closeSession"
+        android:icon="@drawable/ic_salir"
+        android:title="@string/closeSession"/>
+    <item
+        android:id="@+id/item_salir"
+        android:icon="@drawable/ic_salir"
+        android:title="@string/Salir"/>
+    
+</menu>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/CardView_View"
+    app:theme="@style/AppThemeDark"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/TextView_timeAlarm"
+                android:textSize="15sp"
+                android:text="Time"
+                android:padding="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/TextView_nameSensor"
+                android:textSize="15sp"
+                android:text="MovimientoNO"
+                android:padding="5dp"
+                android:layout_toRightOf="@+id/TextView_timeAlarm"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/TextView_nameCamera"
+                android:textSize="15sp"
+                android:text="Camara2"
+                android:padding="5dp"
+                android:layout_toRightOf="@+id/TextView_nameSensor"
+                android:layout_toLeftOf="@+id/button_deleteAlarm"/>
+
+            <Button
+                android:layout_width="30dip"
+                android:layout_height="28dip"
+                android:id="@+id/button_deleteAlarm"
+                android:background="@drawable/ic_clear_white_18dp"
+                android:layout_alignParentRight="true"
+                />
+
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/name_view"
+        android:textColor="#000000"
+        android:textSize="@dimen/customEntry" />
+
+    <EditText
+        android:id="@+id/edittext_viewname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:digits="QWERTYUIOPLKJHGFDSAZXCVBNMqwertyuiopasdfghjklzxcvbnñm1234567890"
+        android:textColor="#000000"
+        android:maxLength="20"
+        android:textSize="@dimen/customEntry"/>
+
+    <TextView
+        android:id="@+id/TextView_CountScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="@string/count_screen"
+        android:textColor="#000000"
+        android:textSize="@dimen/customEntry" />
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar_CountScreen"
+        android:max="6"
+        android:progress="1"
+        android:visibility="visible"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_dafaultview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:text="@string/dafault_view"
+        android:textColor="#000000"
+        android:textSize="@dimen/customEntry" />
+
+</LinearLayout>

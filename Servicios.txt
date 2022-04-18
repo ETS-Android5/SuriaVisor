@@ -1,0 +1,44 @@
+login
+envio: {"login":{"user":"usuario","password":"contrseña"}}
+respuesta: {"login":{"message":"succeed"}} si correcto y sino {"login":{"message":"Ha fallado la autenticación, usuario o contraseña incorrectos."}}
+
+getCameras
+envio: {"getCameras":""}
+respuesta: {"getCameras":[arreglo de json con las camaras]}
+
+getZones
+envio: {"getZones":""}
+respuesta: {"getZones":[arreglo de json con las zonas]}
+
+getSensors
+envio: {"getSensors":""}
+respuesta: {"getSensors":[arreglo de json con los sensores]}
+
+startRecord
+envio: {"startRecord":{"idCamera":"id de la camara"}}
+respuesta: {"startedRecord":{"idCamera":"id de la camara"}} 
+
+stopRecord
+envio: {"stopRecord":{"idCamera":"id de la camara"}}
+respuesta: {"stoppedRecord":{"idCamera":"id de la camara"}} 
+
+getCameraStatus
+envio: {"getCameraStatus":{"idCamera":"id de la camara"}}
+respuesta: {"getCameraStatus":{"idCamera":"id de la camara","active":"true o false si esta activa"}}
+
+changedCameraStatus esto ocurre si hay un cambio de estado en la camara.
+respuesta: {"changedCameraStatus":{"idCamera":"id de la camara","active":"true o false si esta activa"}}
+
+showAlarm esto ocurre si se dispara un sensor.
+respuesta: {"showAlarm":{"idCamera":"id de la camara","idSensor":"id del sensor"}}
+
+setMark
+envio: {"setMark":{"idCamera":"id de la camara","time":"tiempo para establecer marcador"}}
+respuesta: no respuesta
+
+setActiveSensor
+envio: {"setActiveSensor":{"idCamera":"id de la camara","idSensor":"id del sensor","active":"true o false en dependencia si se quiere activar o no"}}
+respuesta: {"setActiveSensor":{"idCamera":"id de la camara","idSensor":"id del sensor","active":"true o false si esta activa"}}
+
+
+

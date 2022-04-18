@@ -1,0 +1,46 @@
+<!-- A DrawerLayout is intended to be used as the top-level content view using match_parent for both width and height to consume the full space available. -->
+<android.support.v4.widget.DrawerLayout
+    android:id="@+id/drawer_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="uci.suriavisor.presentation.MainActivity"
+    >
+
+    <!-- As the main content view, the view below consumes the entire
+         space available using match_parent in both dimensions. -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <include layout="@layout/toolbar"/>
+
+        <ImageView
+            android:id="@+id/ic_gris"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo_xilema_suria"
+            tools:ignore="ContentDescription"
+            android:clickable="true"
+            android:contextClickable="true"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+
+
+    <!-- The drawer is given a fixed width in dp and extends the full height of
+         the container. -->
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/listDrawer"
+              android:layout_width="240dp"
+              android:layout_height="fill_parent"
+              android:layout_gravity="start"
+              android:background="@android:color/background_dark"
+              android:choiceMode="singleChoice"
+              android:headerDividersEnabled="false"
+              android:dividerHeight="2dp"
+              android:scrollbars="none"/>
+
+</android.support.v4.widget.DrawerLayout>

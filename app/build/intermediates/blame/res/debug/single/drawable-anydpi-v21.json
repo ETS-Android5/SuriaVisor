@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_videocam_black_24dp.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-anydpi-v21\\ic_videocam_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_videocam_off_black_24dp.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-anydpi-v21\\ic_videocam_off_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_fiber_manual_record_black_24dp.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-anydpi-v21\\ic_fiber_manual_record_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_add_to_queue_black_24dp.xml",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-anydpi-v21\\ic_add_to_queue_black_24dp.xml"
+    }
+]

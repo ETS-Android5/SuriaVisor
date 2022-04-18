@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+      xmlns:sgoliver="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/opciones"
+        android:orderInCategory="100"
+        sgoliver:showAsAction="ifRoom"
+        android:icon="@drawable/ic_opciones"
+        android:title="@string/Opciones">
+        <menu>
+            <item android:id="@+id/item_cfg_cnx" 
+                android:title="@string/Cfg_Cnx" 
+                android:icon="@drawable/ic_cfg_cnx"/>
+            
+            <item android:id="@+id/item_salir" 
+                android:title="@string/Salir" 
+                android:icon="@drawable/ic_salir"/>
+            
+        </menu>
+    </item>
+    
+
+</menu>

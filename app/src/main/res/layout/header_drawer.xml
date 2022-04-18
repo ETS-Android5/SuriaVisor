@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="175dp"
+        android:orientation="horizontal"
+        android:background="@color/primary">
+
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="35dp"
+            android:id="@+id/user_avatar"
+            android:background="@android:color/white"
+            android:src="@drawable/user_login"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/userName_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Invitado"
+                android:layout_marginTop="50dp"
+                android:layout_marginLeft="10dp"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/session_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white"
+                android:text="Cerrar sesión"
+                android:gravity="right"
+                android:layout_gravity="right"
+                android:layout_marginTop="12dp"
+                android:textSize="15sp"
+                android:textAllCaps="false"
+                android:background="#00ffffff"
+                android:padding="6dp"
+                tools:targetApi="ice_cream_sandwich" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

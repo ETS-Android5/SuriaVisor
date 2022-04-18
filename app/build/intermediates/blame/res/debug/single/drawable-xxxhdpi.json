@@ -1,0 +1,586 @@
+[
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_picture_in_picture_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture_in_picture_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_play_arrow_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_play_arrow_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_location_city_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location_city_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_up_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_bookmark_border_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_bookmark_border_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_open_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_open_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_album_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_album_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_off_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_off_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_outline_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_outline_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_forever_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_forever_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clear_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clear_all_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_all_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_a_photo_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_a_photo_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_alarm_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_alarm_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_close_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_close_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_forever_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_forever_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_open_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_open_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_up_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_play_arrow_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_off_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_off_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_exit_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_exit_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_album_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_album_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clear_all_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_all_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_exit_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_exit_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_alarm_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_alarm_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_forever_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_forever_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_alarm_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_alarm_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clear_all_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_all_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_assignment_turned_in_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_assignment_turned_in_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_a_photo_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_a_photo_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_up_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_picture_in_picture_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture_in_picture_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_bookmark_border_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_bookmark_border_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\user_login.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\user_login.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_edit_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_forever_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_forever_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_play_arrow_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_play_arrow_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_forever_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_forever_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_open_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_open_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_album_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_album_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_off_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_off_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_location_city_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location_city_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_exit_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_exit_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_outline_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_outline_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_exit_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_exit_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_photo_album_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_photo_album_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_menu_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_alarm_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_alarm_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_picture_in_picture_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture_in_picture_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_off_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_off_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_play_arrow_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_play_arrow_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_a_photo_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_a_photo_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_picture_in_picture_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_picture_in_picture_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_bookmark_border_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_bookmark_border_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_up_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_outline_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_outline_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_location_city_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location_city_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_black_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_location_city_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location_city_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_to_queue_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_to_queue_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_red.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_bookmark_border_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_bookmark_border_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_outline_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_outline_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_open_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_open_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_down_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_zoom_in_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_zoom_in_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_videocam_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_videocam_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_video_call_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_video_call_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_check_circle_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_check_circle_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_lock_outline_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_lock_outline_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_a_photo_white_48dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_a_photo_white_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_left_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fiber_manual_record_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fiber_manual_record_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_close_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_close_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clear_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_white_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_18dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_fullscreen_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_fullscreen_white_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_24dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clear_white_36dp.png",
+        "source": "C:\\Users\\Miguel\\AndroidStudioProjects\\SuriaVisor 1.0\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_white_36dp.png"
+    }
+]
